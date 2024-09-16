@@ -1,0 +1,2 @@
+# Research-Paper-Summarizer-Chatbot-End-to-End-Gen-AI-Project-using-LLM-and-RAGS
+A project leveraging large language models (LLMs) to simplify research papers. Users upload papers and ask questions in plain English, receiving clear, layman-friendly explanations of key concepts and equations. Powered by LLMs and Retrieval Augmented Generation (RAG), this chatbot aids researchers and students in understanding complex content.
